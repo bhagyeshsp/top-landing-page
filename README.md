@@ -29,3 +29,7 @@ Once all containers are styled, I will work on the copy.
 ![container two styling done render](./doc/4.container_two_styling.png)
 
 ![container three styling done render](./doc/5.container_three_stylig.png)
+
+### Container four styling complete
+
+![container four styling done render](./doc/6.container_four_styling.png)
