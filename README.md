@@ -18,3 +18,8 @@ This is how it looks at this stage:
 
 ![header styling render](./doc/2.header_styling.png)
 
+### 3. Container one styling complete
+This is how the webpage looks like at the moment.
+Once all containers are styled, I will work on the copy.
+
+![container one styling done render](./doc/3.container_one_styling.png)
