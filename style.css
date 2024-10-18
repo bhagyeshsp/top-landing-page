@@ -52,14 +52,13 @@ ul {
     flex-basis: 500px;
     justify-content: center;
     align-items: center;
-    border: 1px solid black; /* Remove this in the end */
 }
 
 .one {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 48px;
+    padding: 80px;
     gap: 16px;
 }
 
@@ -71,15 +70,17 @@ ul {
 }
 
 .heading.text {
+    max-width: 500px;
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
-    width: 300px;
 }
 
 .heading.subtext {
+    max-width: 400px;
     color: #F9FAF8;
     font-size: 18px;
+    line-height: 1.3;
 }
 
 .hero-content button {
@@ -109,7 +110,7 @@ ul {
 }
 
 .container.two .heading.text {
-    width: auto;
+    max-width: 70%;
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
@@ -120,6 +121,7 @@ ul {
     width: 100vw;
     display: flex;
     justify-content: center;
+    align-items: flex-start;
     gap: 48px;
 }
 
@@ -137,6 +139,8 @@ ul {
 }
 
 .card .heading.subtext {
+    max-width: 200px;
+    text-wrap: wrap;
     color: black;
     font-size: 18px;
 }
@@ -145,6 +149,7 @@ ul {
 
 .container.three {
     flex-direction: column;
+    align-items: center;
     background-color: #E5E7EB;
 }
 
@@ -161,6 +166,7 @@ ul {
     font-size: 18px;
     font-weight: 700;
     text-align: right;
+    text-wrap: balance;
 }
 
 /* .container.four styles */
@@ -186,12 +192,14 @@ ul {
 }
 
 .cta-text {
+    max-width: 400px;
     font-size: 18px;
     font-weight: 600;
     color: #E5E7EB;
 }
 
 .cta-subtext {
+    max-width: 450px;
     font-size: 12px;
     color: #E5E7EB;    
 }
