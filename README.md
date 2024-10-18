@@ -24,16 +24,20 @@ Once all containers are styled, I will work on the copy.
 
 ![container one styling done render](./doc/3.container_one_styling.png)
 
-### Containers two and three styling complete
+### 4. Containers two and three styling complete
 
 ![container two styling done render](./doc/4.container_two_styling.png)
 
 ![container three styling done render](./doc/5.container_three_stylig.png)
 
-### Container four styling complete
+### 5. Container four styling complete
 
 ![container four styling done render](./doc/6.container_four_styling.png)
 
-### Footer styling complete
+### 6. Footer styling complete
 
 ![footer styling done render](./doc/7.footer_styling.png)
+
+### 7. Copy updated, website complete!
+
+![final copy](./doc/8.final_copy.png)
