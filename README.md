@@ -23,3 +23,9 @@ This is how the webpage looks like at the moment.
 Once all containers are styled, I will work on the copy.
 
 ![container one styling done render](./doc/3.container_one_styling.png)
+
+### Containers two and three styling complete
+
+![container two styling done render](./doc/4.container_two_styling.png)
+
+![container three styling done render](./doc/5.container_three_stylig.png)
