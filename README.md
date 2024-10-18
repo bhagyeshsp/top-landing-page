@@ -33,3 +33,7 @@ Once all containers are styled, I will work on the copy.
 ### Container four styling complete
 
 ![container four styling done render](./doc/6.container_four_styling.png)
+
+### Footer styling complete
+
+![footer styling done render](./doc/7.footer_styling.png)
