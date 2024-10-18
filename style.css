@@ -134,10 +134,32 @@ ul {
 .card img {
     width: 200px;
     border-radius: 10px;
-    border-color: #3882F6;
 }
 
 .card .heading.subtext {
     color: black;
     font-size: 18px;
 }
+
+/* .container.three styles */
+
+.container.three {
+    flex-direction: column;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    width: 600px;
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quote-subtext {
+    width: 600px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: right;
+}
+
